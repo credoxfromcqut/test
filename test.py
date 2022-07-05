@@ -5,4 +5,4 @@ def hello(a):
 
 
 if __name__ == "__main__":
-    hello(123)
+    hello(1234)
